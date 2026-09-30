@@ -341,7 +341,7 @@ int main() {
         cout << "1. Agregar producto\n";
         cout << "2. Ver todos los productos\n";
         cout << "3. Ordenar productos por nombre (Bubble Sort)\n";
-        cout << "4. Buscar producto por código (búsqueda secuencial)\n";
+        cout << "4. Realizar busqueda de productos (búsqueda secuencial)\n";
         cout << "5. Registrar nuevo pedido\n";
         cout << "6. Ver pedidos pendientes\n";
         cout << "7. Procesar siguiente pedido\n";
